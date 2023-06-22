@@ -1,2 +1,3 @@
 # CW_adversarial_training
-Contains the code for adversarial training and C&amp;W attack on keyword spotting transformer model
+This repository contains the code for the keyword-spotting transformer model in Tensorflow version 2. It contains the code for KWT training, and the Carlini and wagner attack on it.
+It also contains the code of the defense technique adversarial training and tf2_testing can be used for finding the benign accuracy and adversarial robustness.
